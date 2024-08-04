@@ -1,0 +1,12 @@
+.section {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .section h2 {
+    font-size: 1.5em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
